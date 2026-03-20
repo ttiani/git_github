@@ -22,7 +22,8 @@ git branch -M 브랜치명
 ## 1.4 토큰 등록
 1. `.git/config` 파일 열기
 2. [remote "origin"] 항목의 url 값에 토큰과 계정을 추가
-   1. url = https://본인계정:토큰@github.com/본인레파지토리명.git
+   
+   i. url = https://본인계정:토큰@github.com/깃허브레포지터리주소.git
 
 <br>
 
