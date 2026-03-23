@@ -29,7 +29,7 @@ git branch -M 브랜치명
 
 ## 1.5 작업 목록에 추가
 ```bash
-git add 작업 파일명
+git add 작업 파일명 test
 git add .(현재파일의 모든 것)
 ```
 
